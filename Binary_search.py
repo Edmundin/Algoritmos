@@ -1,4 +1,4 @@
-
+# El algoritmo Binary_search es un algoritmo de búsqueda
 
 def Binary_search(list, item):
     low = 0
